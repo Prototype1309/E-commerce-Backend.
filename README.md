@@ -20,4 +20,4 @@ For this assignment, we were tasked with creating a back end for an e-commerce s
 ## Links
 https://github.com/Prototype1309/E-commerce-Backend.
 
-https://drive.google.com/file/d/13vpx7Rifd2AinrzcqMox08TyT7ttRFOA/view?usp=sharing
+https://drive.google.com/file/d/17n-B1zZXuwCj6aHD7h2v6q4g5Siy7vxf/view
